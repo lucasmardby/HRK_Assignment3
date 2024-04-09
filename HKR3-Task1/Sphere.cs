@@ -1,11 +1,12 @@
 ﻿namespace HKR3_Task1
 {
-    internal class Sphere
+    public class Sphere
     {
         private int radius;
 
         public Sphere()
         { 
+            Radius = 0;
         }
         public Sphere(int radius)
         {
@@ -17,14 +18,10 @@
             get { return radius; } 
             set 
             {
-                if (value > 0)
-                {
+                if (value >= 0)
                     radius = value;
-                }
                 else
-                {
                     radius = 0;
-                }
             }
         }
 

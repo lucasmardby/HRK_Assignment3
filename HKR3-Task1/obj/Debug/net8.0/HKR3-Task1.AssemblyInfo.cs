@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HKR3-Task1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcebd3f8c7bd98dcf2ccfe9a8e4f46b479397d96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f13673ea276d50523bc1717b171f3763d4666da6")]
 [assembly: System.Reflection.AssemblyProductAttribute("HKR3-Task1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HKR3-Task1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

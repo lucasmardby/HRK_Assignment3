@@ -1,0 +1,15 @@
+E:\Code\HKR_Assignment3\HRK_Assignment3\Task3\bin\Debug\net8.0\HKR3 - Task3.exe
+E:\Code\HKR_Assignment3\HRK_Assignment3\Task3\bin\Debug\net8.0\HKR3 - Task3.deps.json
+E:\Code\HKR_Assignment3\HRK_Assignment3\Task3\bin\Debug\net8.0\HKR3 - Task3.runtimeconfig.json
+E:\Code\HKR_Assignment3\HRK_Assignment3\Task3\bin\Debug\net8.0\HKR3 - Task3.dll
+E:\Code\HKR_Assignment3\HRK_Assignment3\Task3\bin\Debug\net8.0\HKR3 - Task3.pdb
+E:\Code\HKR_Assignment3\HRK_Assignment3\Task3\obj\Debug\net8.0\HKR3 - Task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\HKR_Assignment3\HRK_Assignment3\Task3\obj\Debug\net8.0\HKR3 - Task3.AssemblyInfoInputs.cache
+E:\Code\HKR_Assignment3\HRK_Assignment3\Task3\obj\Debug\net8.0\HKR3 - Task3.AssemblyInfo.cs
+E:\Code\HKR_Assignment3\HRK_Assignment3\Task3\obj\Debug\net8.0\HKR3 - Task3.csproj.CoreCompileInputs.cache
+E:\Code\HKR_Assignment3\HRK_Assignment3\Task3\obj\Debug\net8.0\HKR3 - Task3.sourcelink.json
+E:\Code\HKR_Assignment3\HRK_Assignment3\Task3\obj\Debug\net8.0\HKR3 - Task3.dll
+E:\Code\HKR_Assignment3\HRK_Assignment3\Task3\obj\Debug\net8.0\refint\HKR3 - Task3.dll
+E:\Code\HKR_Assignment3\HRK_Assignment3\Task3\obj\Debug\net8.0\HKR3 - Task3.pdb
+E:\Code\HKR_Assignment3\HRK_Assignment3\Task3\obj\Debug\net8.0\HKR3 - Task3.genruntimeconfig.cache
+E:\Code\HKR_Assignment3\HRK_Assignment3\Task3\obj\Debug\net8.0\ref\HKR3 - Task3.dll
